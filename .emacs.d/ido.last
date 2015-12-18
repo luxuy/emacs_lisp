@@ -1,0 +1,103 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("d:/百度云同步盘/LxNote/cairographics/" . "pycairo例子/")
+ ("d:/百度云同步盘/LxNote/C/" . "例子/")
+ ("d:/百度云同步盘/LxNote/" . "haskell/")
+ ("d:/" . "c_test/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "d:/百度云同步盘/LxNote/github技巧/"
+ "d:/百度云同步盘/LxNote/C++/例子/"
+ "d:/百度云同步盘/LxNote/cairographics/Cairo例子/"
+ "d:/百度云同步盘/LxNote/cairographics/"
+ "d:/百度云同步盘/LxNote/ruby/例子/"
+ "d:/百度云同步盘/LxNote/ruby/"
+ "d:/百度云同步盘/LxNote/cairographics/gtk_cairo/"
+ "d:/百度云同步盘/LxNote/cairographics/安装/"
+ "d:/百度云同步盘/LxNote/C/例子/"
+ "d:/Green_Soft/emacs-24.5/bin/"
+ "d:/百度云同步盘/LxNote/graphviz/例子/"
+ "d:/百度云同步盘/LxNote/graphviz/"
+ "d:/百度云同步盘/LxNote/计算机基本理论/"
+ "d:/百度云同步盘/LxNote/haskell/00_note/"
+ "d:/百度云同步盘/LxNote/haskell/00_note/IO.files/"
+ "d:/百度云同步盘/LxNote/haskell/练习/"
+ "d:/百度云同步盘/LxNote/haskell/Learn_You_Haskell_for_Great_Good/"
+ "d:/c_test/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "git远程操作.note"
+ "vector_ex.cpp"
+ "vector_p.cpp"
+ "c11.cpp"
+ "image_ops_2.cpp"
+ "image_ops.cpp"
+ "clip_image.cpp"
+ "cairo_c笔记.note"
+ "eval_lx.rb"
+ "case_when.note"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("d:/Green_Soft/emacs-24.5/bin/lx/" (22117 37080 0 0) "workspaces.el" "unscroll.el" "switch-windows.-el" "smex.el" "smart-copy.el" "select-between.el" "run-cur-file.el" "pager.el" "lxnote_rb.elc" "lxnote_rb.el" "lx-packages.elc" "lx-packages.el" "kid-cool-box.el" "insert_lx.el" "icicles/" "graphviz_temp.rb" "add-face.el" "#unscroll.el#" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/C++/例子/" (22130 6018 0 0) "vector_p.cpp" "vector_ex.cpp" "string.mk" "pp.h" "mk_2.mk" "mk_2" "makefile" "c11.cpp" "aa.exe" "aa.d" "aa.cpp" "a" "#string.mk#" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/github技巧/" (22130 18049 0 0) "git基本操作.note" "git基本操作.html" "git基本操作.files/" "git使用.note" "git使用.html" "git使用.files/" "Github桌面版使用.note" "Github桌面版使用.html" "Github桌面版使用.files/" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/ruby/" (22128 61798 0 0) "聊聊 Ruby 中的 block, proc 和 lambda » 社区 » Ruby China.pdf" "回顾regexp.note" "回顾regexp.html" "回顾regexp.files/" "例子/" "ruby - Write and read a file with utf-8 encoding - Stack Overflow_files/" "ruby - Write and read a file with utf-8 encoding - Stack Overflow.html" "lx_ev.rb" "eval_lx.rb" "case_when.note" "case_when.html" "case_when.files/" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/cairographics/" (22129 10463 0 0) "安装/" "slides.pdf" "pycairo例子/" "gtk_cairo/" "Cairo例子/" "cairo_ddc2005.pdf" "cairo_c笔记.note" "cairo_c笔记.html" "cairo_c笔记.files/" "Cairo Tutorial.pdf" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/cairographics/Cairo例子/" (22129 9752 0 0) "toolbar.c" "the-mask.svg" "the-mask.png" "textextents.svg" "textextents.png" "textextents.c" "text.png" "text.c" "table.c" "stroke.svg" "stroke.png" "stroke.c" "source.svg" "source.png" "simple.c" "showtext.svg" "showtext.png" "showtext.c" "setsourcergba.png" "setsourcegradient.png" "rect.png" "rect.c" "readme.txt" "popmenu.c" "path.c" "path-moveto.svg" "path-moveto.png" "path-lineto.svg" "path-lineto.png" "path-curveto.svg" "path-curveto.png" "path-close.svg" "path-close.png" "path-arcto.svg" "path-arcto.png" "paint.svg" "paint.png" "paint.c" "mask.svg" "mask.png" "mask.c" "lines.exe" "image_op_3.png" "image_op_2.png" "image_ops_3.cpp" "image_ops_2.cpp" "image_ops.cpp" "image_op.png" "image_clip.png" "image_clip.c" "imagemenu.c" "gtk_lines.c" "gtk_cairo_3.c" "gtk_cairo_2.c" "gtk_cairo.c" "fill.svg" "fill.png" "draw.c" "diagram.c" "destination.svg" "destination.png" "data/" "clip_image.cpp" "clip.png" "clip.c" "cairo_01.c" "aa.png" "aa.exe" "../" "./")
+
+ ("d:/Green_Soft/emacs-24.5/bin/" (22128 56118 0 0) "zlib1.dll" "test.el" "runemacs.exe" "pp.exe" "lx/" "libXpm.dll" "libpng16-16.dll" "libjpeg-9.dll" "jpeg62.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.5.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "aa.c" "88.rb.png" "88.rb" ".smex-items" ".history" ".emacs.d/" ".emacs-bmk-bmenu-state.el" ".emacs" "#aa.c#" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/ruby/例子/" (22128 56956 0 0) "lx_eval.rb" "eval_lx.rb" "aa.txt" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/3-时间/2015-12/" (22128 57779 0 0) "2015-12-16.note" "2015-12-16.html" "2015-12-16.files/" "2015-12-01.note" "2015-12-01.html" "2015-12-01.files/" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/cairographics/gtk_cairo/" (22127 49395 0 0) "transparent_window.exe" "transparent_window.c" "run.sh" "puff_effect.exe" "puff_effect.c" "line_dash.exe" "line_dash.c" "lines.exe" "ec.sh" "draw_lines.c" "draw_circle.exe" "draw_circle.c" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/C/例子/" (22121 29493 0 0) "重定向.c" "绘图_01.c" "指针.c" "字符拼接.c" "堆.c" "命令行参数.pdf" "三个删一个.c" "sprintf.c" "scanf_lx.c" "pp1.exe.stackdump" "pp.exe.stackdump" "pp.exe" "malloc_01.c" "gtk_01.c" "command_line.c" "cairo/" "1-19.c" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/cairographics/安装/" (22122 58061 0 0) "python-3.4.3.msi" "pycairo安装.note" "pycairo安装.html" "pycairo安装.files/" "pycairo-1.10.0-cp34-none-win32.whl" "gtk-2.12.9-win32-2 .exe" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/cairographics/pycairo例子/" (22122 49166 0 0) "../" "./")
+
+ ("d:/百度云同步盘/LxNote/graphviz/例子/" (22113 25647 0 0) "基本写法.rb.png" "基本写法.rb" "下载例子/" "pp.rb.png" "pp.rb" "node样式.rb.png" "node样式.rb" "imags/" "examples/" "aa.rb" "aa.png" "66.rb" "66.g.png" "66.g.gv" "66.g" "55.g.png" "55.g.gv" "55.g" "444.g.png" "444.g" "333333.g.png" "333333.g" "22.rb.png" "22.rb" "#pp.rb#" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/计算机基本理论/" (22112 4553 0 0) "有限状态机模拟.rb" "test.rb" "Ruby-Graphviz-master/" "pp.gv" "hello.png" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/graphviz/" (22112 4995 0 0) "例子/" "中文问题.note" "ruby-graphviz.note" "ruby-graphviz.html" "ruby-graphviz.files/" "graphviz日语教程.pdf" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/haskell/Learn_You_Haskell_for_Great_Good/" (22100 26564 0 0) "高阶函数.note" "高阶函数.html" "高阶函数.files/" "lx.hs" "Learn You a Haskell for Great Good!.pdf" "B10-Haskell趣学指南.pdf" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/haskell/练习/" (22099 7802 0 0) "WC.hs" "toupper-lazy5.hs" "quux.txt" "lx.hs" "ch07_filter.hs" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/haskell/00_note/" (22099 7778 0 0) "正则.note" "正则.html" "正则.files/" "平行列表扩展.note" "平行列表扩展.html" "平行列表扩展.files/" "IO.note" "IO.html" "IO.files/" "cabal包管理.note" "cabal包管理.html" "cabal包管理.files/" "Cabal_How to install a Cabal package - HaskellWiki.pdf" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/C/" (22107 62627 0 0) "关于make.note" "关于make.html" "关于make.files/" "例子/" "scanf_sscanf的秘密.note" "scanf_sscanf的秘密.html" "scanf_sscanf的秘密.files/" "printf.note" "printf.html" "printf.files/" "C进程.note" "C进程.html" "C进程.files/" "C的头文件和库文件.note" "C的头文件和库文件.html" "C的头文件和库文件.files/" "C深入理解.note" "C深入理解.html" "C深入理解.files/" "book/" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/haskell/00_note/IO.files/" (22099 4112 0 0) "命令行.hs" "../" "./")
+
+ ("d:/c_test/" (22081 48599 0 0) "pp.exe" "aa.c" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/haskell/" (22085 37355 0 0) "haskell-98-tutorial.pdf" "../" "./")
+
+ ("d:/百度云同步盘/LxNote/" (22085 37335 0 0) "摄影/" "五行/" "sketchup/" "ppp.gif" "OF/" "IOS_swift/" "haskell/" "github技巧/" "GIMP/" "gif制作/" "Firefox/" "Emacs.htm" "Emacs/" "CSS_html/" "C++/" "C/" "blender/" "AAA/" "@lxnote笔记帮助/" "5-阅读/" "4-投机/" "3-时间/" "2015-03-16_000.jpg" "2-信息/" "1-建筑/" "0-策划/" "../" "./")
+
+ ("d:/Green_Soft/" (22076 15826 0 0) "小工具/" "yofrankie_rev24/" "yofrankie_demo1.2_glsl_win32/" "yofrankie_1_1b_bge/" "UDG VPN工具/" "totalcmd7.5/" "Thumbs.db" "sculptris/" "sample/" "of_v0073_win_cb_release/" "of_v0071_win_cb_release/" "of_v0.8.4_win_cb_release/" "of_v0.7.4_win_cb_release/" "of_preRelease_v007_win_cb/" "Natron_Windows_x86_32bits_v1.2.1/" "Mitsuba 0.5.0/" "mefcl/" "LuxRender_32_SSE2_NoOpenCL/" "lispbox/" "grub4dos-0.4.4/" "gooseberry-blender-2.72-9768480-win32/" "FLTK_build/" "FLTK/" "emacs-24.5/" "emacs-24.4/" "emacs-24.3/" "context/" "cont-tmf/" "cmake-2.8.7-win32-x86/" "clcl/" "c++ex/" "c#ex/" "blender_python_reference_2_70_0/" "BlenderYafaray32bit/" "BlenderDEV/" "blender-2.76-win32/" "blender-2.75-win32/" "blender-2.74-win32/" "blender-2.73-win32/" "blender-2.72-win32/" "blender-2.71-win32/" "blender-2.70-win32-test/" "blender-2.70-win32/" "blender-2.69-win32/" "blender-2.68-win32/" "blender-2.67-win32/" "blender-2.59-windows32/" "blender-2.571-windows32/" "blender-2.49b-windows/" "Blender 2.62 Yafaray32bit/" "AU_09_DV322-2_Tang.pdf" "Angry Birds 3DM汉化版/" "Alchemy/" "../" "./")
+
+ ("d:/Green_Soft/emacs-24.5/" (22074 63296 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

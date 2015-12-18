@@ -1,0 +1,24 @@
+ls
+cls
+dir
+cd..
+cd ..
+echo pp
+pwd
+time
+time -hShow wall-clock time elapsed during execution of COMMAND.
+time -h
+$(message "ppp")
+$(message "ls")
+top
+top
+pid
+ls
+date
+ls -la
+ls -a
+ls -l
+ps
+ps -l
+pwd
+awk `{print ;}` line_dash.c
